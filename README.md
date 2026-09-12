@@ -182,4 +182,4 @@ sudo systemctl start ytdlpbot
 
 ## License
 
-MIT（或依你的專案需求調整）
+MIT
